@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.6"
+  },
+  "name": "learning-sequelize",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahalam-dev/learning-sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahalam-dev/learning-sequelize/issues"
+  },
+  "homepage": "https://github.com/shahalam-dev/learning-sequelize#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
